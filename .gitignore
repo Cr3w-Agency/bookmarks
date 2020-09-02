@@ -1,2 +1,7 @@
 venv/
 .DS_Store
+.idea/
+*.log
+*.pot
+*.pyc
+__pycache__/
